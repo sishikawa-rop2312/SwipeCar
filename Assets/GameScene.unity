@@ -378,6 +378,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 628178ce5accb3f43b810e126342aa11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  car: {fileID: 1136837208}
+  flag: {fileID: 1921992033}
+  distance: {fileID: 66831259}
 --- !u!4 &1070558711
 Transform:
   m_ObjectHideFlags: 0
